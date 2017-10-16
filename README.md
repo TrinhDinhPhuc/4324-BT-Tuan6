@@ -1,4 +1,4 @@
-# 4324-BT-Tuan6
+# 4324-BT-Tuan6-De4
 <p align="center">
   <img width="350" height="300" src="https://github.com/TrinhDinhPhuc/4324-BT-Tuan6/blob/master/issues-3.jpg">
 </p>                
