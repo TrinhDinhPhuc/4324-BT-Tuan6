@@ -3,6 +3,18 @@
   <img width="350" height="300" src="https://github.com/TrinhDinhPhuc/4324-BT-Tuan6/blob/master/issues-3.jpg">
 </p>                
 
+## Result
+<p align="center">
+  <img width="700" height="400" src="https://github.com/TrinhDinhPhuc/4324-BT-Tuan6/blob/master/pic1.PNG">
+</p>  
+
+<p align="center">
+  <img width="700" height="400" src="https://github.com/TrinhDinhPhuc/4324-BT-Tuan6/blob/master/pic2.PNG">
+</p>  
+
+<p align="center">
+  <img width="700" height="400" src="https://github.com/TrinhDinhPhuc/4324-BT-Tuan6/blob/master/pic3.PNG">
+</p>  
 
 ## Author
 * **Trịnh Đình Phúc-1A ** 
